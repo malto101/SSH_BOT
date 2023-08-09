@@ -21,15 +21,15 @@ This Python script demonstrates how to use the Fabric library for automating tas
 
    ```sh
    git clone https://github.com/malto101/SSH_BOT.git
-   ```sh
+   
 2. Install the required dependencies:
    ```sh
    pip install fabric
-   ```sh
+   
 4. Run the script:
    ```sh
    python script.py
-   ```sh
+   
 
 6. Enter the root password when prompted.
 
